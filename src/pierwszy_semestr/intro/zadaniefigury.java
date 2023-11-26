@@ -1,3 +1,5 @@
+package pierwszy_semestr.intro;
+
 public class zadaniefigury {
     public static void main(String[] args) {
         int number = (int) (Math.random() * 4) + 1;
