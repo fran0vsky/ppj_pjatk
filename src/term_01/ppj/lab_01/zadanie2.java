@@ -1,4 +1,4 @@
-package pierwszy_semestr.intro;
+package term_01.ppj.lab_01;
 
 public class zadanie2 {
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class zadanie2 {
                 grievous += " one";
         }
         System.out.println(grievous);
-
+        System.out.println("test");
     }
 
 }

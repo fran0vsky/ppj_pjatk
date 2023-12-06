@@ -1,4 +1,4 @@
-package pierwszy_semestr.intro;
+package term_01.ppj.lab_01;
 
 public class GitTest {
     public static void main(String[] args) {
